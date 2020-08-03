@@ -1,5 +1,3 @@
-# MoMo
- 
 
 ```
 Hi there, I'm RealMo! 👋
